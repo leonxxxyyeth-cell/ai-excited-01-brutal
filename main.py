@@ -16,6 +16,7 @@ import os
 import shutil
 from pathlib import Path
 
+# transcripts fix round 2 — rewritten inside the recording window
 # The bundled entry image, resolved next to this script.
 ENTRY = Path(__file__).resolve().parent / "entry.jpg"
 
