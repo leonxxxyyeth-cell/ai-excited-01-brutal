@@ -17,6 +17,29 @@ Why this image: the winning pattern in this bounty is a creature breaking out
 of its frame with gold, scale and drama — awe, wonder and surprise in a single
 glance.
 
+## Gambar terpilih
+
+The bundled image is candidate **koi-03-golden-wave**, chosen from the
+generated candidates for this entry. Four things decided the pick:
+
+- **Frame-break:** the koi is caught mid-exit — body already outside the
+  frame, canvas torn around it. The break is the whole joke of the image:
+  the painting refuses to stay a painting.
+- **Emas:** gold is not an accent here, it is the palette — the koi, the
+  frame, the spilling liquid. Warm, high-contrast gold reads instantly
+  even at thumbnail size.
+- **Skala mustahil:** a koi far too big for its frame, in a museum gallery
+  built for humans. The impossible scale is what makes a viewer stop and
+  stare instead of scrolling past.
+- **Emosi awe:** the visitors frozen mid-step sell the reaction the judge
+  is supposed to feel — surprise turning into wonder in a single glance.
+
+The other candidates lost on those same axes: some kept the koi mostly
+inside the frame (no real break, no moment), some used gold only as a
+trim (flat, less drama), and some shrank the koi to a believable size
+(believable is boring — the awe evaporates). koi-03-golden-wave was the
+only candidate that scored on all four at once.
+
 ## How the program works
 
 `main.py` (Python 3.13, standard library only) copies the bundled image
